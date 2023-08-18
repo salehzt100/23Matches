@@ -13,8 +13,8 @@ Welcome to the world of the Match Removal Game, a strategic challenge that will 
 
 <h1> Setup</h1>
 
-Copy the code"\n"
-Paste copied code here.\n
-Type play into the terminal.\n
-Press Run.\n
+Copy the code.<br>
+Paste copied code here.<br>
+Type play into the terminal.<br>
+Press Run.<br>
 Enjoy! 😊😉 
